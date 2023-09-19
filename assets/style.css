@@ -1,0 +1,44 @@
+:root {
+    --sage: #16ac90;
+    --cream: rgb(238, 240, 234);
+    --dark-teal: rgb(0, 73, 68);
+}
+body {
+    background-color: var(--cream);
+    color: var(--dark-teal);
+}
+
+.header {
+    flex: auto;
+    background-image: linear-gradient(180deg, var(--dark-teal),var(--sage));
+    color: var(--cream);
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+    font-weight: bolder;
+    margin-left: 20px;
+} 
+
+.header nav {
+    display: inline-block;
+}
+
+.header nav ul {
+    list-style-type: none;
+    position: relative;
+    left: 550px;
+}
+.header nav ul li{
+    display: inline-block;
+}
+
+a {
+    color: var(--cream);
+    text-decoration: none;
+    padding: 15px;
+}
+.footer {
+    text-align: center;
+}
