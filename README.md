@@ -9,7 +9,8 @@
 ## Installation
 
 - Please refer to the live link to access the website:
-- 
+- https://lydiafliess.github.io/lydias-portfolio/
+
 
 ## Usage
 
