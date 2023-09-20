@@ -10,7 +10,7 @@
 
 - Please refer to the live link to access the website:
 - https://lydiafliess.github.io/lydias-portfolio/
-- <img width="942" alt="Deployment Screenshot" src="https://github.com/lydiafliess/lydias-portfolio/assets/47550822/a8e77745-9aec-478f-bd21-e8022530bc59">
+<img width="942" alt="Deployment Screenshot" src="https://github.com/lydiafliess/lydias-portfolio/assets/47550822/a8e77745-9aec-478f-bd21-e8022530bc59">
 
 ## Usage
 
